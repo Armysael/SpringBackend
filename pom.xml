@@ -45,7 +45,7 @@
 			</exclusions>
 		</dependency>
 	</dependencies>
-<!-- test jenkins -->
+<!-- test jenkins2 -->
 	<build>
 		<plugins>
 			<plugin>
